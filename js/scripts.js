@@ -1,9 +1,4 @@
-let myName = 'Bob';
-document.write(myName);
+alert('Hello World! \nこんにちは!');
 
-
-
-let size = 100;
-let doubleSize = (size * 2);
-let minSize = (doubleSize * 2) - (size / 2);
-document.write(minSize);
+var faveFoods = "Chocolate <br />Ramen  <br />Ice Cream <br />Rendang <br />Curry <br />Pineapple <br />Plums <br />Sashimi";
+document.write(faveFoods);
